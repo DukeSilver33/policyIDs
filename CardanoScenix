@@ -1,0 +1,9 @@
+{
+    "project": "CardanoScenix",
+    "policies": [
+        "438e6d1ae4346ce30b5a0fd97d3fd4c76dae36152b75b69e57fa72e4",
+        "919221c4674398abea61c3cc1f7a0fdf50f23a8321ed1079369cc845",
+        "94fd9a3f07dc211a178ac00dd185877eb82a1a9d42568f239a6914c4",
+        "be4ac58df6fa807d86331da8f3e8aae3f3a7f069b4ec2b886e107303"
+    ]
+}
